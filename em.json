@@ -6,7 +6,7 @@
   "version": "0.0.1",
   "license": "mit",
   "locignore": {
-    "extensions": [],
+    "extensions": [".md"],
     "directories": ["libs", ".opencode", ".claude"]
   },
   "lintignore": {

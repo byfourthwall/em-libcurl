@@ -2,19 +2,17 @@
 
 [![MIT License](https://img.shields.io/badge/license-MIT-yellow.svg)](./LICENSE)
 
-TODO: Write a description here
+emeralds wrapper for [libcurl](https://curl.se/libcurl/)
 
 # Installation
 
-TODO: Write installation instructions here
-
-## Usage
-
-TODO: Write usage instructions here
+```sh
+em install https://github.com/byfourthwall/em-libcurl
+```
 
 ## Contributing
 
-1. Fork it (<https://github.com/your-github-user/em-libcurl/fork>)
+1. Fork it (<https://github.com/byfourthwall/em-libcurl/fork>)
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
@@ -22,4 +20,4 @@ TODO: Write usage instructions here
 
 ## Contributors
 
-- [YourName](https://github.com/your-github-user) - creator and maintainer
+- [atha](https://github.com/Oblivious-Oblivious) - creator and maintainer
