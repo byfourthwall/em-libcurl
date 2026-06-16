@@ -28,6 +28,7 @@
       "release": ["gcc", "-O2", "-std=c89"]
     }
   },
+  "link": ["-lcurl"],
   "dependencies": {},
   "dev-dependencies": {
     "https://github.com/Oblivious-Oblivious/cSpec": "latest"
